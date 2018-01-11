@@ -9,7 +9,7 @@ Dataset are from [*British Library*](http://www.thomaspadilla.org/data/dataprep/
 - Get the file & name your project
 - Then click **[Next]** and the project is being created, incl all the data/fields/information, already *hidden* in the __*.csv filen__
 
-1. **WE GO TROUGH** the different facets, funktions, features together on the board - in order to learn the TOOL and the Dataset
+1. **WE GO THROUGH** the different facets, funktions, features together on the board - in order to learn the TOOL and the Dataset
 
 ### FACETS
 
